@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/cat1"
+        android:title="Ventr : " />
+    <item
+        android:id="@+id/cat2"
+        android:title="Caftans" />
+    <item
+        android:id="@+id/cat3"
+        android:title="Robes de soirée" />
+
+    <item
+        android:id="@+id/cat4"
+        android:title="Robes d'hôtesses " />
+    <item
+        android:id="@+id/cat5"
+        android:title="@string/combinaisons_jabadors" />
+    <item
+        android:id="@+id/cat6"
+        android:title="@string/burnos_abayas" />
+    <item
+    android:id="@+id/cat7"
+    android:title="@string/gilets_kimonos" />
+    <item
+    android:id="@+id/cat8"
+    android:title="Vestes" />
+    <item
+    android:id="@+id/cat9"
+    android:title="Robes de sorties" />
+    <item
+    android:id="@+id/cat10"
+    android:title="Pantalons" />
+    <item
+    android:id="@+id/cat11"
+    android:title="Location :" />
+    <item
+    android:id="@+id/cat12"
+    android:title="Caftans" />
+    <item
+    android:id="@+id/cat13"
+    android:title="Robes de soirée " />
+    <item
+    android:id="@+id/cat14"
+    android:title="Burnous" />
+    <item
+    android:id="@+id/cat15"
+    android:title="Demoiselles d'honneur" />
+
+</menu>
